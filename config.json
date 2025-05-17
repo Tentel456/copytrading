@@ -1,0 +1,9 @@
+{
+  "wallets": [
+    "WAL-1",
+    "WAL-2"
+  ],
+  "rpcEndpoint": "https://api.mainnet-beta.solana.com",
+  "privateKey": "PR",
+  "slippageTolerance": 0.5
+} 
